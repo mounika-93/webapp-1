@@ -20,12 +20,12 @@
   </build>
    <distributionManagement>
       <repository>
-        <id>build_releases</id>
+        <id>build_release</id>
         <name>build_release</name>
         <url>http://54.152.125.193:8081/repository/build_release/</url>
       </repository>
     <snapshotRepository>
-          <id>build_snapshots</id>
+          <id>build_snapshot</id>
           <name>build_snapshot</name>
           <url>http://54.152.125.193:8081/repository/build_snapshot/</url>
           </snapshotRepository>
