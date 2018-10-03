@@ -21,13 +21,13 @@
    <distributionManagement>
       <repository>
         <id>releases</id>
-        <name>releases</name>
-        <url>http://54.175.142.41:8081/repository/releases/</url>
+        <name>build_release</name>
+        <url>http://54.152.125.193:8081/repository/build_release/</url>
       </repository>
     <snapshotRepository>
           <id>snapshots</id>
-          <name>snapshots</name>
-          <url>http://54.175.142.41:8081/repository/snapshots/</url>
+          <name>build_snapshot</name>
+          <url>http://54.152.125.193:8081/repository/build_snapshot/</url>
           </snapshotRepository>
   </distributionManagement>
 </project>
