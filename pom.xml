@@ -22,12 +22,12 @@
       <repository>
         <id>releases</id>
         <name>releases</name>
-        <url>http://54.152.125.193:8081/repository/releases/</url>
+        <url>http://54.210.189.12:8081/repository/releases/</url>
       </repository>
     <snapshotRepository>
           <id>snapshots</id>
           <name>snapshots</name>
-          <url>http://54.152.125.193:8081/repository/snapshots/</url>
+          <url>hhttp://54.210.189.12:8081/repository/snapshots/</url>
           </snapshotRepository>
   </distributionManagement>
 </project>
